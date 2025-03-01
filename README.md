@@ -5,7 +5,7 @@ A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.''
 
 This game is deployed on GitHub Pages. You can play it at:
 
-GitHub Pages link:
+GitHub Pages link:https://ruthwik134.github.io/Tictactoe/
 
 ## Features
 - Two-player mode
