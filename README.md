@@ -28,7 +28,7 @@ A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 ```
 
 ## Future Improvements
-- Add AI for single-player mode
+- Add AI for single-player mode(Minimax Algorithm in Ai where it calculates the maximum profit when the decision is made!)
 - Improve UI/UX with animations
 - Add sound effects
 
