@@ -1,6 +1,11 @@
 # Tic-Tac-Toe Game
 
-A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
+A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.''
+##**Deployment:**
+
+This game is deployed on GitHub Pages. You can play it at:
+
+GitHub Pages link:
 
 ## Features
 - Two-player mode
@@ -32,8 +37,6 @@ A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 - Improve UI/UX with animations
 - Add sound effects
 
-## License
-This project is open-source and free to use.
 
 ---
 Enjoy playing Tic-Tac-Toe!
